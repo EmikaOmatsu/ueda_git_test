@@ -1,0 +1,7 @@
+4/7
+sublime text2.2 DL
+
+virtual box
+Vagrant
+
+xcode
